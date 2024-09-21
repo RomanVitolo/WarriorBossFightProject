@@ -78,7 +78,7 @@
 /DUE_BUILD_DEVELOPMENT=1
 /DORIGINAL_FILE_NAME="UnrealEditor-Warrior.dll"
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
+/DPROJECT_COPYRIGHT_STRING="Roman Vitolo All Rights Reserved"
 /DPROJECT_PRODUCT_IDENTIFIER=Warrior
 /fo "C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

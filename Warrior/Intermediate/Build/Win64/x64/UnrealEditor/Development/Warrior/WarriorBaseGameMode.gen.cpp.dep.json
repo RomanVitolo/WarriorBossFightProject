@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\unrealeditor\\inc\\warrior\\uht\\warriorbasegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\x64\\warrioreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\warrior\\definitions.warrior.h",
+            "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\source\\warrior\\public\\gamemodes\\warriorbasegamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\unrealeditor\\inc\\warrior\\uht\\warriorbasegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

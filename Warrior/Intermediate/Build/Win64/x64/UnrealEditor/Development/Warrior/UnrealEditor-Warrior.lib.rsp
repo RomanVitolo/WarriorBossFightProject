@@ -7,6 +7,15 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\WarriorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\Warrior.init.gen.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorBaseCharacter.gen.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorBaseGameMode.gen.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorHeroCharacter.gen.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorHeroController.gen.cpp.obj"
 "C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\Warrior.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorBaseCharacter.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorHeroCharacter.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorHeroController.cpp.obj"
+"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\WarriorBaseGameMode.cpp.obj"
 "C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\Default.rc2.res"
 /OUT:"C:\Users\roman\Documents\Unreal Projects\WarriorBossFightProject\Warrior\Intermediate\Build\Win64\x64\UnrealEditor\Development\Warrior\UnrealEditor-Warrior.lib"

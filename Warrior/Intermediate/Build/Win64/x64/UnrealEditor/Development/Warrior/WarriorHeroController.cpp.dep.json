@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\source\\warrior\\private\\controllers\\warriorherocontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\x64\\warrioreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\warrior\\definitions.warrior.h",
+            "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\source\\warrior\\public\\controllers\\warriorherocontroller.h",
+            "c:\\users\\roman\\documents\\unreal projects\\warriorbossfightproject\\warrior\\intermediate\\build\\win64\\unrealeditor\\inc\\warrior\\uht\\warriorherocontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
